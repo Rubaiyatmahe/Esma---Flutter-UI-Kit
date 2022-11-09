@@ -1,4 +1,4 @@
-# Esma---Flutter-UI-Kit
+# Kratos---Flutter-UI-Kit
 Mobile Application UI Kit
 
 ![1](https://user-images.githubusercontent.com/80895946/200805552-5ac9ef1f-9e81-4ae5-8b54-b8164cb83d43.png)
